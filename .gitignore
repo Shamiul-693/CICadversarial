@@ -1,0 +1,2 @@
+with open(".gitignore", "w") as f:
+    f.write("*.csv\n*.pcap\n*.zip\n/Edge-IIoTset/")
